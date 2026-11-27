@@ -1,15 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Day_02
+using Csharp_Complete_Learning;
+
+
+namespace Day02
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Day2.Run();
+            Console.WriteLine("======================================");
+
+            Conversion.Test();
+
+            Console.WriteLine("======================================");
+
+            ReadlineMethod.Run1();
+
         }
     }
 }
+
