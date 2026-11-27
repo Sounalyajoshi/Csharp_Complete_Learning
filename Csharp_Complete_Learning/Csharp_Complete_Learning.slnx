@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Csharp_Complete_Learning/Csharp_Complete_Learning.csproj" />
+  <Project Path="Day_01/Day_01.csproj" Id="8631deae-c377-4b5d-8781-82660d0e78dd" />
+  <Project Path="Day_02/Day_02.csproj" Id="aac8d0e5-28e9-48a2-a0d8-ae53dda602c9" />
 </Solution>
